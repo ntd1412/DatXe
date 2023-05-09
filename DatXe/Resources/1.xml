@@ -1,0 +1,86 @@
+<?xml version="1.0"?>
+<!--Created by exporting the settings of a KryptonPalette instance.-->
+<!--For more information about Krypton visit www.ComponentFactory.com-->
+<!--WARNING: Modifying this file may render it invalid for importing.-->
+<KryptonPalette Version="18" Generated="Monday, 08 May 2023, 16:30">
+  <Properties>
+    <ButtonSpecs>
+      <FormClose>
+        <Image Type="Image" Value="ImageCache1" />
+      </FormClose>
+      <FormMin>
+        <Image Type="Image" Value="ImageCache2" />
+      </FormMin>
+      <FormMax>
+        <Image Type="Image" Value="ImageCache3" />
+      </FormMax>
+    </ButtonSpecs>
+    <ButtonStyles>
+      <ButtonForm>
+        <StateNormal>
+          <Back>
+            <Color1 Type="Color" Value="250, 252, 252" />
+            <Color2 Type="Color" Value="250, 252, 252" />
+          </Back>
+          <Border>
+            <DrawBorders Type="PaletteDrawBorders" Value="Top,Bottom,Left,Right" />
+            <Width Type="Int" Value="0" />
+          </Border>
+        </StateNormal>
+        <StateTracking>
+          <Back>
+            <Color1 Type="Color" Value="250, 252, 252" />
+            <Color2 Type="Color" Value="250, 252, 252" />
+          </Back>
+          <Border>
+            <DrawBorders Type="PaletteDrawBorders" Value="Top,Bottom,Left,Right" />
+            <Width Type="Int" Value="0" />
+          </Border>
+        </StateTracking>
+        <StatePressed>
+          <Back>
+            <Color1 Type="Color" Value="250, 252, 252" />
+            <Color2 Type="Color" Value="250, 252, 252" />
+          </Back>
+          <Border>
+            <DrawBorders Type="PaletteDrawBorders" Value="Top,Bottom,Left,Right" />
+            <Width Type="Int" Value="0" />
+          </Border>
+        </StatePressed>
+      </ButtonForm>
+    </ButtonStyles>
+    <FormStyles>
+      <FormMain>
+        <StateCommon>
+          <Back>
+            <Color1 Type="Color" Value="250, 252, 252" />
+            <Color2 Type="Color" Value="250, 252, 252" />
+          </Back>
+          <Border>
+            <DrawBorders Type="PaletteDrawBorders" Value="Top,Bottom,Left,Right" />
+            <GraphicsHint Type="PaletteGraphicsHint" Value="None" />
+            <Rounding Type="Int" Value="12" />
+          </Border>
+        </StateCommon>
+      </FormMain>
+    </FormStyles>
+    <HeaderStyles>
+      <HeaderForm>
+        <StateCommon>
+          <Back>
+            <Color1 Type="Color" Value="250, 252, 252" />
+            <Color2 Type="Color" Value="250, 252, 252" />
+          </Back>
+          <Content>
+            <Padding Type="Padding" Value="10, -1, -1, -1" />
+          </Content>
+        </StateCommon>
+      </HeaderForm>
+    </HeaderStyles>
+  </Properties>
+  <Images>
+    <Image Name="ImageCache1"><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAjwMAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAAAd0SU1FB+cFAgw4Ixme8owAAAMXSURBVDhPTZNbSFRhEMcnMLOLRJEFUVuCRfRgN3bblSCliz5EkfXQQ0FqZVFgRtmmlZt2Mzeyi2hRGEFUGFREUj7UUz1kBJZYPantjSA7Gsq2sHt+ndmPoAPDGb5v/v+Z+c980icioUmTZMD56xeZPHmVtWlTcMzv/xAPBmPxixdjY1VVPdb69U3hKVNWAOnY7w5GsRJ2nHBGhnwVybbWratN3L4dsvv74ccPiMVgYAB6e0k9f86furqhX253Tb/I1NDEifI9M1Nk0CFR8OiWLbeS3d020agBKcnHj/DuHbx+DV1d0NlJMhBIjXo8rUryr2qxvN6Tqc5Om74+6OmBt2/hzRt49QqePYNHj6CjA27cgKYmknv2pH7l5tZoOxLJzPQk/P5wGtDdDS9eGNDjx/DgAdy9C21tcPkyNDTA0aOwdy9/fL4hp/XlMrJy5VVbmR8+hPv34d49A7pzB9rb4do1uHQJ6uvhyBGoqIDSUlI+H9bMmU0yXlzcy5UrJvB/a2kxWc+ehePH4eBBKCuDbdugqAiWLmVsxoz3Et+wYZhTpyAQMCWeOwcXLhjTrFVV6ZLZudOAS0rA64XFi4nPmhWTeF7eMFu3wqFDcOwY1NYa4OnT4PdDjaOVln7gAOzaBZs3w9q1kJ9PfO7cmIy7XJ/xeMxFebnJeOKEqej8eWPqK3llJezYAcXF4HYz5nJ9kJEFC67bBQWGYPduqK6GM2dI66Lqq6mvZ3qnMU6srSK6XM0SnT3bmygoiLJ9u8mg2YNBMwWdjJr6zc3mbt++tBYJny8UyclZJYUiE6xlywIpFUh10P5bW83yvHxpTH0dteriTCNZWmpb+fkOm7NIQ3PmyLesrOm/i4o6Uvv3Q2Mj3LwJT5+ajVRTX8+cKSUrK+3RwsJbXzIysgdycpxNXLhQInl58m3atOlWSUl9oro6amsF/xM8eYIuW+Lw4bC1cWPd16ys7HBuroTmz5f0k4wsWSKDLpescdqJrl7tHamouD7e2Pgp3t4+HG9r+zne0NA7UlbWEvF43Pp2BufNk/CiRQ5W5C+UqIq6grz28QAAAABJRU5ErkJgggs=]]></Image>
+    <Image Name="ImageCache2"><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAOQMAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAAAd0SU1FB+cFAgw4Ixme8owAAALBSURBVDhPVdNLSFRRGAfwTxgdNUUMR0H0qqAhLbSUGWeGIMXnQhIfixYFmZZGgRplo2ZO2kPT0NJBE8MIosKgQopyUatapASWmK58zIsgvWMo14GZe/p/F4OaHwOHe853vvP4DtECkd6pJ1oh7Rfhjsgtl8sHbNu2uQFlwNur9Hqbtptmi+SivkhX5GEhhDZWv44YxJLepSedS0e0RNGFcmH7hH/Cuaguip/ghRWYh+ngtOjY7VgzbhpbaZH2hTpDKWw9DDOs4o/giq2K8ZnAjOoRHi1oEb7CZ/gAb2EK7AF70LRlcvAkf1dNZtl8dSo4pS6IBTELn+AjvIfX8BwmYQT6oD5QH0zbTGvVthPmDjPZ/DYXB8zAG+CgF/AUHsEo3IVuuARnwLJrWcPWD1GOL+feiDoinsETeAwc9BDG4D7cgS64CHVQBZagReyX9/dR6U7p/KAY1Ab+awg46w24AuehFqqhAA5C7HbsFypWijc6RaewAy/xJtzew1mbgJd8Aji4DMxwAOKUOC+lK+kblaJSXIDL0A4ceA1s0Aq89HNwEo7BUciCRCXRS9KO9N0kTFrHaeCMbcArurWH2zx5AxyHUjCCtC3NUYovZdiqWrUJTkELXAc+Fz59xm3+xn08hsdaVIuQZKmf4j3xZqvf6qkRNVoGzj4AfAt8M4zb/cB9Z4HPwuK3OA1uQy5RPoVky9n26mC1dg68fwdw8bzbw20uIj4Xvo2qQJWaJWe1aYWUsJZA4cvhMQW/CyYbg42iBx7AK+CKZNzmb3xLDYEGNX8rf1z3QxdtWDEQpbpTKd2dTlHLUTFlcllXi7/F41Ad/03wErjYmv3NrhK5pCN8KTw6zZVGyc5kPAQ8yUx3JkmrEtERCsnz5JnrfHXDPTs938aUsY1RZfRX9073fK2vdsjkNhn57SStJlGGKwOxRH8AClyKugXstQ4AAAAASUVORK5CYIIL]]></Image>
+    <Image Name="ImageCache3"><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAnwMAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAAAd0SU1FB+cFAgw4Ixme8owAAAMnSURBVDhPVZNpSBRhGMefwLQwiaIDoqygIvpgF5pGUNL5IYqsD30oKDssCjrosLu0yzI6LDQpjMguo5O8KovCyk0NXdvUbGfXnZ1ZTZ3d2m1a2Z1/z7vTlwb+8DLz/p7//33eZ6jpPpGrPIakp0QAyF3Rf7r2eXGuvy2zVnfmqrrjtOpv3fZJq5uXI1fEThV7xN720pgISzLDclkUNd+iOK127v6gcs1l/LYBvR0sFQhKwO8GhLVn+CMdcPbUJO6xFVOsq6wvF4kmcjwjai6mOF/D0sKQVmmgVzEhnYsE6gH/e+BnFeAtBXpKEHIdC/tqk67YblOsSBJ5NEvywXBXiQG9iaFPwK9qhl4DvgpAe8LgPaCrCOi8DHhyELKvD/dUj90jjsNnjk4KSpmyCVSy0/N/0AOg+w6DNxjMZ/AcoGQBrl2AYwP+NKY4+ehTyGuZdtHwcOWeuwwUM3DThH5cZ7AA6LgEqGcA9xGGdzK8DmhLQ9iWAu3d4BwKNC5sgOe8ufE/XfjnehyQ9wLOLYC0luHlQEsq0DQJ/g+DLKRb53fDfYgdjpoR1ROsU6YUdm3fFokMaRXwneHWRcDXZMA6AXrNEJX0unHdaFvGDls54m5222/GdR/mdSaLeyWiOzdzkdWcYAnQPBv4kgDdMkKlgCXeClsS8I0/ONJNR/c+dudE6klTYi1zcWcGYF/JKRYCtkT4a+Jryft+dJ5hm2lWltaw2w4GjnEPuC+i+0JiLd6Jb2IP7zVEE6vjz5Lyclhy0DpTwfcVpoNw9+TyTfAtiJsREjfiOcsp+JtzY6QXwcYUl/vF0Ok0m6iPVjP5aPgbN6id+yAa13nFHB5fuSmxFkOkcF/atyDUmmZoHxO4Gg+So3w4tTzuN/Dn59SisLSJz5zNjld5mB6bEykk1uKdmoWQlGH46ucUfn0YFSeVDeVJrBrDGkctTwYM1OoXHQnadyhGByf4r8AjGB2XEbRvl7W6BQeaH/WLk1+NJdfLURT5Jd1vJpKjMp5m8XGUdzOSvU3r8gL27EZdLujW5fyugD2rwWtNv+B+m5Qo/h1HxUiSq8YzS/QXyIT75QELGBkAAAAASUVORK5CYIIL]]></Image>
+  </Images>
+</KryptonPalette>
